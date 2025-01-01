@@ -3,7 +3,7 @@
         {
             "type": "cppbuild",
             "label": "C/C++: g++.exe build active file",
-            "command": "C:\\msys64\\ucrt64\\bin\\clang++.exe",
+            "command": "/usr/bin/g++",
             "args": [
                 "-std=c++20",
                 "-Wall",
